@@ -1,4 +1,9 @@
-# henri-tracker
+# Gerenciador de Tarefas!
+
+Aplicativo de gerenciamento de tarefas com um temporizador! 
+Realizado com Vue3.
+
+Aplicativo do curso de Vue3 ensinado pela excelente professor Vinicius, projeto com algumas adaptações.
 
 ## Project setup
 ```
